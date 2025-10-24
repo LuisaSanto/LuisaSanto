@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Luisa Santo!
 
-#### 👩‍💻 Software Engineer | 🎓 Mentor | 🌍 First-Generation Immigrant in the U.S.
+#### 👩‍💻 Software Engineer
 
 Welcome to my GitHub! I’m a software engineer with a passion for developing high-quality solutions that blend technical excellence with user-focused experiences. With a diverse background in backend and mobile engineering, I’ve worked across various platforms to deliver scalable, reliable features. Currently, I’m a software engineer at Microsoft, where I focus on performance optimization, mobile UI enhancements, and tackling complex technical challenges.
 
