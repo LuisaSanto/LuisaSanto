@@ -1,28 +1,17 @@
-## 👋 Hello, I’m Luisa Santo!
+# Luisa Santo
 
-#### 👩‍💻 Software Engineer
+I'm an iOS engineer at Microsoft, currently working on GroupMe. Before that, I worked on Microsoft Teams.
 
-Welcome to my GitHub! I’m a software engineer with a passion for developing high-quality solutions that blend technical excellence with user-focused experiences. With a diverse background in backend and mobile engineering, I’ve worked across various platforms to deliver scalable, reliable features. Currently, I’m a software engineer at Microsoft, where I focus on performance optimization, mobile UI enhancements, and tackling complex technical challenges.
+[Portfolio](https://www.luisasanto.dev/) | [LinkedIn](https://www.linkedin.com/in/luisa-santo/)
 
-#### 🔥 What I Do:
+## Selected work
 
-- iOS Development @ Microsoft: Working on critical features and UI improvements, ensuring top-tier performance and user engagement.
-- Mentorship & Empowerment: Helping guide engineers transitioning to development roles and supporting women in STEM through mentorship and hands-on support.
+- **GroupMe profiles:** built the redesigned profile experience on iOS and added swipe navigation between profiles.
+- **Copilot-powered chat summaries:** implemented streaming UI, caching, error handling and tests for partial and failed responses.
+- **Microsoft Teams:** refactored older post-meeting code into Swift components and testable view models, working with partner teams to preserve existing behavior.
 
- 
-#### 🛠️ Tech Stack:
+I also build UI automation, fix VoiceOver and contrast issues, and mentor interns on architecture, implementation and code review.
 
-- Languages: Swift, Objective-C, Ruby
-- Frameworks: UIKit, Combine, SwiftUI
-- Tools: Xcode, Git, Visual Studio, CI/CD pipelines
-- Specialties: iOS development, backend architecture, system performance optimization, and UI/UX design
+**Core stack:** Swift, Objective-C, UIKit, Swift Concurrency, XCTest and Git.
 
-#### 🌱 On the Side:
-
-- Side Quests: I’m currently diving into 3D animation 🎥 and indulging my love for retro objects 🎮 as part of my creative hobbies.
-- Fantasy Enthusiast: If it involves dragons 🐉 or epic fantasy, I’m all in. Fantasy worlds are a big source of inspiration for me, whether through books, movies, or art.
-
-#### 💡 Fun Facts:
-
-- Mentorship: I’ve had the privilege of mentoring both software engineers and support engineers, helping them grow technically and personally.
-- Growth Mindset: I thrive on continuous learning, whether it’s mastering new development techniques or exploring creative fields like animation and design.
+Outside work, I like fantasy books and retro objects.
